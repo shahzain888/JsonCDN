@@ -1,5 +1,5 @@
 {
-    "Meditation": [
+    "meditation": [
         {
             "VideoTitle": "Bedtime Story to Help You Sleep The Underwater City BetterSleep",
             "VideoURL": "https://cdn.jsdelivr.net/gh/notionsoofficial-spec/better-sleep@main/Peacefull/Bedtime%20Story%20to%20Help%20You%20Sleep%20%20%20The%20Underwater%20City%20%20%20BetterSleep/Bedtime%20Story%20to%20Help%20You%20Sleep%20%20%20The%20Underwater%20City%20%20%20BetterSleep.m3u8",
@@ -8,7 +8,7 @@
         {
             "VideoTitle": "Bedtime Story Immersive Rain Sound Narrative Fall Asleep Faster BetterSleep",
             "VideoURL": "https://cdn.jsdelivr.net/gh/notionsoofficial-spec/better-sleep@main/beautifull/Bedtime%20Story%20%20%20Immersive%20Rain%20Sound%20Narrative%20%20%20%20Fall%20Asleep%20Faster%20%20%20BetterSleep/Bedtime%20Story%20%20%20Immersive%20Rain%20Sound%20Narrative%20%20%20%20Fall%20Asleep%20Faster%20%20%20BetterSleep.m3u8",
-            "VideoThumbnailURL": "https://cdn.jsdelivr.net/gh/notionsoofficial-spec/better-sleep@main/beautifull/Bedtime%20Story%20%20%20Immersive%20Rain%20Sound%20Narrative%20%20%20%20Fall%20Asleep%20Faster%20%20%20BetterSleep/Bedtime%20Story%20%20%20Immersive%20Rain%20Sound%20Narrative%20%20%20%20Fall%20Asleep%20Faster%20%20%20BetterSleep.jpg"
+            "VideoThumbnailURL": "https://cdn.jsdelivr.net/gh/notionsoofficial-spec/better-sleep@main/Better%20Sleep%20thumbnail/Bedtime%20Story%20%20Immersive%20Rain%20Sound%20Narrative%20%20Fall%20Asleep%20Faster%20BetterSleep.jpg"
         },
         {
             "VideoTitle": "2 Hours of Peaceful and Relaxing Sleep Music Soft Piano Road to Bliss Playlist BetterSleep",
@@ -146,7 +146,7 @@
             "VideoThumbnailURL": "https://cdn.jsdelivr.net/gh/notionsoofficial-spec/better-sleep@main/Better%20Sleep%20thumbnail/Soft%20Piano%20and%20Rain%20Sounds%20%20Relaxing%20piano%20Sleep%20Music%20Background%20Music%20%20BetterSleep.jpg"
         }
     ],
-    "Aesthetic": [
+    "aesthetic": [
         {
             "VideoTitle": "30 Minute Relaxing Ambient Music Playlist BetterSleep",
             "VideoURL": "https://cdn.jsdelivr.net/gh/notionsoofficial-spec/better-sleep@main/beautifull/30%20Minute%20Relaxing%20Ambient%20Music%20Playlist%20%20%20BetterSleep/30%20Minute%20Relaxing%20Ambient%20Music%20Playlist%20%20%20BetterSleep.m3u8",
@@ -160,7 +160,7 @@
         {
             "VideoTitle": "Beautiful and Relaxing Instrumental Music Playlist BetterSleep",
             "VideoURL": "https://cdn.jsdelivr.net/gh/notionsoofficial-spec/better-sleep@main/beautifull/Beautiful%20and%20Relaxing%20Instrumental%20Music%20Playlist%20%20%20BetterSleep/Beautiful%20and%20Relaxing%20Instrumental%20Music%20Playlist%20%20%20BetterSleep.m3u8",
-            "VideoThumbnailURL": "https://cdn.jsdelivr.net/gh/notionsoofficial-spec/better-sleep@main/beautifull/Beautiful%20and%20Relaxing%20Instrumental%20Music%20Playlist%20%20%20BetterSleep/Beautiful%20and%20Relaxing%20Instrumental%20Music%20Playlist%20%20%20BetterSleep.jpg"
+            "VideoThumbnailURL": "https://cdn.jsdelivr.net/gh/notionsoofficial-spec/better-sleep@main/Better%20Sleep%20thumbnail/Beautiful%20and%20Relaxing%20Instrumental%20Music%20Playlist%20%20BetterSleep.jpg"
         },
         {
             "VideoTitle": "1 Hour Meditation and Relaxation Music Spa Music Ocean Rainforest Sounds Zen BetterSleep",
@@ -450,17 +450,17 @@
         {
             "VideoTitle": "Piano Music Travis A King Beautiful Mind The Album Playlist",
             "VideoURL": "https://cdn.jsdelivr.net/gh/notionsoofficial-spec/better-sleep@main/Peacefull/Piano%20Music%20%20%20Travis%20A%20King%20%20Beautiful%20Mind%20The%20Album%20%20%20Playlist/Piano%20Music%20%20%20Travis%20A%20King%20%20Beautiful%20Mind%20The%20Album%20%20%20Playlist.m3u8",
-            "VideoThumbnailURL": "https://cdn.jsdelivr.net/gh/notionsoofficial-spec/better-sleep@main/Peacefull/Piano%20Music%20%20%20Travis%20A%20King%20%20Beautiful%20Mind%20The%20Album%20%20%20Playlist/Piano%20Music%20%20%20Travis%20A%20King%20%20Beautiful%20Mind%20The%20Album%20%20%20Playlist.m3u8"
+            "VideoThumbnailURL": "https://cdn.jsdelivr.net/gh/notionsoofficial-spec/better-sleep@main/Better%20Sleep%20thumbnail/Piano%20Music%20%20Travis%20A%20King%20%20Beautiful%20Mind%20The%20Album%20%20Playlist.jpg"
         },
         {
             "VideoTitle": "Relaxing Music 40 Minute Tropical Getaway BetterSleep",
             "VideoURL": "https://cdn.jsdelivr.net/gh/notionsoofficial-spec/better-sleep@main/Relax/Relaxing%20Music%20%20%2040%20Minute%20Tropical%20Getaway%20%20%20BetterSleep/Relaxing%20Music%20%20%2040%20Minute%20Tropical%20Getaway%20%20%20BetterSleep.m3u8",
-            "VideoThumbnailURL": "https://cdn.jsdelivr.net/gh/notionsoofficial-spec/better-sleep@main/Relax/Relaxing%20Music%20%20%2040%20Minute%20Tropical%20Getaway%20%20%20BetterSleep/Relaxing%20Music%20%20%2040%20Minute%20Tropical%20Getaway%20%20%20BetterSleep.m3u8"
+            "VideoThumbnailURL": "https://cdn.jsdelivr.net/gh/notionsoofficial-spec/better-sleep@main/Better%20Sleep%20thumbnail/Relaxing%20Music%20%2040%20Minute%20Tropical%20Getaway%20%20BetterSleep.jpg"
         },
         {
             "VideoTitle": "Uplifting Instrumental Ambient Music Winter Sun BetterSleep",
             "VideoURL": "https://cdn.jsdelivr.net/gh/notionsoofficial-spec/better-sleep@main/Uplifting/Uplifting%20Instrumental%20%20%20Ambient%20Music%20%20%20Winter%20Sun%20%20%20BetterSleep/Uplifting%20Instrumental%20%20%20Ambient%20Music%20%20%20Winter%20Sun%20%20%20BetterSleep.m3u8",
-            "VideoThumbnailURL": "https://cdn.jsdelivr.net/gh/notionsoofficial-spec/better-sleep@main/Uplifting/Uplifting%20Instrumental%20%20%20Ambient%20Music%20%20%20Winter%20Sun%20%20%20BetterSleep/Uplifting%20Instrumental%20%20%20Ambient%20Music%20%20%20Winter%20Sun%20%20%20BetterSleep.m3u8"
+            "VideoThumbnailURL": "https://cdn.jsdelivr.net/gh/notionsoofficial-spec/better-sleep@main/Better%20Sleep%20thumbnail/Uplifting%20Instrumental%20%20Ambient%20Music%20%20Winter%20Sun%20%20BetterSleep.jpg"
         },
         {
             "VideoTitle": "3 Hours of Peaceful Relaxing nd Instrumental Music Spa Music Long Playlist BetterSleep",
