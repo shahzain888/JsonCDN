@@ -411,11 +411,7 @@
         }
     ],
     "Meditation": [
-        {
-            "VideoTitle": "Moment of Calm Everything is Happening Right Now",
-            "VideoURL": "https://cdn.jsdelivr.net/gh/gradehelp/calm@main/Meet/Moment%20of%20Calm%20%20%20Everything%20is%20Happening%20Right%20Now/Moment%20of%20Calm%20%20%20Everything%20is%20Happening%20Right%20Now.m3u8",
-            "VideoThumbnailURL": " https://cdn.jsdelivr.net/gh/gradehelp/calm@main/Calm%20thumbnail/Moment%20of%20Calm%20%20Everything%20is%20Happening%20Right%20Now.jpg"
-        },
+      
         {
             "VideoTitle": "1 Minute Meditation",
             "VideoURL": "https://cdn.jsdelivr.net/gh/gradehelp/calm@main/Slow/1%20Minute%20Meditation/1%20Minute%20Meditation.m3u8",
