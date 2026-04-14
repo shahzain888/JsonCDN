@@ -1,0 +1,32 @@
+[
+    {
+        "bg": "https://nextcontent1.b-cdn.net/Jsons/UI/CS.png",
+        "title": "Cartoon Shows",
+        "slug": "Cartoon Network"
+    },
+    {
+        "bg": "https://nextcontent1.b-cdn.net/Jsons/UI/EV.png",
+        "title": "Educational Videos",
+        "slug": "Educational"
+    },
+    {
+        "bg": "https://nextcontent1.b-cdn.net/Jsons/UI/FV.png",
+        "title": "Funny Videos",
+        "slug": "Funny"
+    },
+    {
+        "bg": "https://nextcontent1.b-cdn.net/Jsons/UI/KG.png",
+        "title": "Kids Gaming",
+        "slug": "Come Play With Me"
+    },
+    {
+        "bg": "https://nextcontent1.b-cdn.net/Jsons/UI/L.png",
+        "title": "Learning",
+        "slug": "Blippi -Educational Videos for Kids"
+    },
+    {
+        "bg": "https://nextcontent1.b-cdn.net/Jsons/UI/NR.png",
+        "title": "Nursery Rhymes",
+        "slug": "NurseryRhymes"
+    }
+]
