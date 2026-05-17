@@ -1,0 +1,31 @@
+  [  {
+        "bg": "https://nextcontent1.b-cdn.net/Jsons/UI/CS.png",
+        "title": "Cartoon Shows",
+        "slug": "Cartoon"
+    },
+    {
+        "bg": "https://nextcontent1.b-cdn.net/Jsons/UI/EV.png",
+        "title": "Educational Videos",
+        "slug": "edu"
+    },
+    {
+        "bg": "https://nextcontent1.b-cdn.net/Jsons/UI/FV.png",
+        "title": "Funny Videos",
+        "slug": "fun"
+    },
+    {
+        "bg": "https://nextcontent1.b-cdn.net/Jsons/UI/KG.png",
+        "title": "Kids Gaming",
+        "slug": "gam"
+    },
+    {
+        "bg": "https://nextcontent1.b-cdn.net/Jsons/UI/L.png",
+        "title": "Learning",
+        "slug": "learn"
+    },
+    {
+        "bg": "https://nextcontent1.b-cdn.net/Jsons/UI/NR.png",
+        "title": "Nursery Rhymes",
+        "slug": "nursery"
+    }
+]
