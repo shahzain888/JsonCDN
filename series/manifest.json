@@ -1,0 +1,10 @@
+{
+  "batchSize": 80,
+  "showCount": 6926,
+  "batchCount": 87,
+  "files": {
+    "catalog": "catalog.json",
+    "keywords": "keywords.json",
+    "batches": "batches/batch_XXX.json"
+  }
+}
