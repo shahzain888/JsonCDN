@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-12T16:18:33Z",
+  "generatedAt": "2026-08-14T13:41:45Z",
   "source": "tenkV.json",
-  "totalVideos": 10000,
+  "totalVideos": 19472,
   "batchSize": 500,
-  "batchCount": 20,
+  "batchCount": 39,
   "keywordsFile": "keywords.json",
   "batches": [
     {
@@ -105,6 +105,101 @@
       "id": "019",
       "file": "batches/batch_019.json",
       "count": 500
+    },
+    {
+      "id": "020",
+      "file": "batches/batch_020.json",
+      "count": 500
+    },
+    {
+      "id": "021",
+      "file": "batches/batch_021.json",
+      "count": 500
+    },
+    {
+      "id": "022",
+      "file": "batches/batch_022.json",
+      "count": 500
+    },
+    {
+      "id": "023",
+      "file": "batches/batch_023.json",
+      "count": 500
+    },
+    {
+      "id": "024",
+      "file": "batches/batch_024.json",
+      "count": 500
+    },
+    {
+      "id": "025",
+      "file": "batches/batch_025.json",
+      "count": 500
+    },
+    {
+      "id": "026",
+      "file": "batches/batch_026.json",
+      "count": 500
+    },
+    {
+      "id": "027",
+      "file": "batches/batch_027.json",
+      "count": 500
+    },
+    {
+      "id": "028",
+      "file": "batches/batch_028.json",
+      "count": 500
+    },
+    {
+      "id": "029",
+      "file": "batches/batch_029.json",
+      "count": 500
+    },
+    {
+      "id": "030",
+      "file": "batches/batch_030.json",
+      "count": 500
+    },
+    {
+      "id": "031",
+      "file": "batches/batch_031.json",
+      "count": 500
+    },
+    {
+      "id": "032",
+      "file": "batches/batch_032.json",
+      "count": 500
+    },
+    {
+      "id": "033",
+      "file": "batches/batch_033.json",
+      "count": 500
+    },
+    {
+      "id": "034",
+      "file": "batches/batch_034.json",
+      "count": 500
+    },
+    {
+      "id": "035",
+      "file": "batches/batch_035.json",
+      "count": 500
+    },
+    {
+      "id": "036",
+      "file": "batches/batch_036.json",
+      "count": 500
+    },
+    {
+      "id": "037",
+      "file": "batches/batch_037.json",
+      "count": 500
+    },
+    {
+      "id": "038",
+      "file": "batches/batch_038.json",
+      "count": 472
     }
   ]
 }
